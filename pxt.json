@@ -4,7 +4,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "gameboard2": "github:marcsteenbergh/gameboard2#v0.0.1"
     },
     "files": [
         "main.blocks",
