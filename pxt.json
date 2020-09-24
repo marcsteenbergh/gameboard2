@@ -5,7 +5,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "gameboard2": "github:marcsteenbergh/gameboard2#v0.0.1"
+        "gameboard2": "github:marcsteenbergh/gameboard2#v0.0.1",
+        "Untitled": "github:lenbergjosh/untitled#0595fdab5987d3b8fbe708c54ef86ec217133837"
     },
     "files": [
         "main.blocks",
